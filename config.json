@@ -1,0 +1,52 @@
+{
+  "token": "",
+
+  "SERVER_IP" : "127.0.0.1",
+  "SERVER_PORT" : "30120",
+
+  "discord": "1088816221471912027",
+  "discordName": "rDev",
+  "logo": "https://imgur.com/BABCr92.gif",
+  "logoAnnonymous": "https://cdn.discordapp.com/attachments/947078873118543882/947104011822182470/ano.png",
+  "logoTweeter": "https://cdn.discordapp.com/attachments/947078873118543882/947104011620872202/twitter.png",
+  "colorDiscord": "#0044ff",
+  "urlConnect" : "https://cfx.re/join/",
+  "urlBoutique": "https://rdevv.tebex.io/",
+
+  "addRoleNewMember": "1088816221471912029",
+
+
+  "channelId": [{
+    "ticketChannel": "1088816222310772781",
+    "ticketCat": "1088816222696652876",
+    "ticketLogs": "1088816222696652871",
+
+    "adminLogs": "1088816222696652872",
+
+    "welcomChannel": "1088816221786493037",
+    "connexionChannel": "1088816222147199024",
+    "voiceCountChannel": "1088816221786493035",
+
+    "ano": "955915052047810571",
+    "tweeter": "955915591821168770"
+  }],
+
+  "ticketType": [{
+    "global": "Question Général",
+    "pay": "Payement et Boutique",
+    "candid": "Candidature"
+  }],
+
+  "ticketPerm": [{
+    "global": "1088816221471912035",
+    "pay": "1088816221786493030",
+    "candid": "1088816221786493029"
+  }],
+
+
+  "ticketEmoji": [{
+    "global": "🌐",
+    "pay": "💸",
+    "candid": "📝"
+  }]
+}

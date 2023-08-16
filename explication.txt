@@ -1,0 +1,43 @@
+*Comment config le bot ? (config.json)
+
+token = Token de votre bot : https://discord.com/developers/applications
+
+SERVER_IP = IP de votre serveur pour statut qui affiche le nombre de joueurs.
+SERVER_PORT = Port de votre serveur
+
+discord = ID de votre serveur Discord
+discordName = Nom de votre serveur 
+logo = URL de votre logo
+logoAnnonymous = URL logo Anonyme 
+logoTweeter = URL logo Twitter 
+colorDiscord = Couleur de votre serveur en hex
+urlConnect = URL de connexion de votre serveur (cfx.re)
+urlBoutique = URL de votre boutique
+
+addRoleNewMember = ID du rôle pour les nouveaux membres
+
+channelId = Liste des identifiants de salon :
+  - ticketChannel = ID du salon de tickets
+  - ticketCat = ID de la catégorie des tickets
+  - ticketLogs = ID du salon de logs des tickets
+  - adminLogs = ID du salon de logs Discord
+  - welcomChannel = ID du salon de bienvenue
+  - connexionChannel = ID du salon de connexion (où le embed de connexion sera envoyé)
+  - voiceCountChannel = ID du salon vocal pour afficher le nombre de membres
+  - ano = ID du salon Anonyme (darknet/darkchat)
+  - tweeter = ID du salon Twitter
+
+ticketType = Liste des types de tickets :
+  - global = Question Générale
+  - pay = Paiement et Boutique
+  - candid = Candidature
+
+ticketPerm = Liste des rôles avec accès aux types de tickets :
+  - global = ID du rôle avec accès aux tickets Question Générale
+  - pay = ID du rôle avec accès aux tickets Paiement et Boutique
+  - candid = ID du rôle avec accès aux tickets Candidature et Recrutement
+
+ticketEmoji = Liste des emojis pour les types de tickets :
+  - global = Emoji pour le ticket Question Générale
+  - pay = Emoji pour le ticket Paiement et Boutique
+  - candid = Emoji pour le ticket Candidature et Recrutement
